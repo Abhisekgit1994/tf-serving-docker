@@ -16,3 +16,5 @@ The mount command simply copies the model from the specified path (MODEL_PATH) i
 -e MODEL_NAME=img_classifier: The name of the model folder.
 
 -t tensorflow/serving:latest-gpu: The TF Serving Docker container to run.
+
+###### Thank you for visiting my profile.
